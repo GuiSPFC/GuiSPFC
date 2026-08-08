@@ -1,16 +1,14 @@
-## Hi there 👋
+# Bem-vindo ao meu perfil
 
-<!--
-**GuiSPFC/GuiSPFC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre mim
+- 🎓 Sou estudante de programação, faço um curso profissionalizante na EBAC de Desenvolvedor Full Stack.
+- 🏫 Cursando Análise e Desenvolvimento de Sistemas (ADS) na Universidade Anhembi Morumbi.
+- 💻 Estudo tanto Back-End quanto Front-End e atualmente estou focado em aprender cada vez mais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologias e Ferramentas
+
+💻 **Linguagens e Web:** HTML5 | CSS3 | JavaScript | Python  
+🐋 **Infraestrutura:** Docker  
+🔧 **Controle de Versão:** Git | GitHub  
