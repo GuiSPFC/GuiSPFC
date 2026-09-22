@@ -15,14 +15,19 @@
 
 ---
 
-### Linguagens utilizadas 
+### 📊 Estatísticas e Linguagens
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiSPFC&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="https://vercel.app" alt="Top Langs" height="165" />
+</div>
 
 ---
 
-### Projetos
+### 📂 Meus Projetos em Destaque
 
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GuiSPFC&repo=todo-react-avancado.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Todo React Avancado" />
+  </a>
+</div>
 
