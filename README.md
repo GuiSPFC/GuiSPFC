@@ -18,13 +18,15 @@
 ### 📊 Estatísticas e Linguagens
 
 <div align="center">
-  <img src="https://vercel.app" alt="Top Langs" height="165" />
+  <img src="https://vercel.app" alt="Top Langs" />
 </div>
 
 ---
 
-### 📂 Principais Projetos
+### 📌 Projetos em Destaque
 
-* 📝 **[todo-react-avancado.github.io](https://github.com)** - Lista de tarefas avançada desenvolvida em React.js, focada em componentização e gerenciamento de estado.
-
----
+<div align="center">
+  <a href="https://github.com">
+    <img src="https://vercel.app" alt="Todo React Avancado" />
+  </a>
+</div>
