@@ -9,24 +9,21 @@
 
 ### 🛠️ Tecnologias e Ferramentas
 
-💻 **Linguagens e Web:** HTML5 | CSS3 | JavaScript | Python  
-🐋 **Infraestrutura:** Docker  
-🔧 **Controle de Versão:** Git | GitHub  
-
----
-
-### 📊 Estatísticas e Linguagens
-
-<div align="center">
-  <img src="https://vercel.app" alt="Top Langs" />
-</div>
+| Categoria | Tecnologias Dominadas |
+| :--- | :--- |
+| **Front-End & Web** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) |
+| **Back-End** | ![Python](https://shields.io) |
+| **Infra & DevOps** | ![Docker](https://shields.io) |
+| **Controle de Versão** | ![Git](https://shields.io) ![GitHub](https://shields.io) |
 
 ---
 
 ### 📌 Projetos em Destaque
 
-<div align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Todo React Avancado" />
-  </a>
-</div>
+- 📝 **[todo-react-avancado](https://github.com)**
+  Lista de tarefas avançada desenvolvida em React.js, focada em componentização, gerenciamento de estado e interface responsiva.
+
+- 🐍 **[API-de-tarefas](https://github.com)**
+  Back-end estruturado em Python focado na criação de rotas estáveis e manipulação ágil de dados de tarefas.
+
+---
