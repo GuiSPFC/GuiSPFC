@@ -1,20 +1,18 @@
-# Bem-vindo ao meu perfil
+# Bem-vindo ao meu perfil 👋
 
-### Sobre mim
-- 🎓 Sou estudante de programação, faço um curso profissionalizante na EBAC de Desenvolvedor Full Stack.
-- 🏫 Cursando Análise e Desenvolvimento de Sistemas (ADS) na Universidade Anhembi Morumbi.
-- 💻 Estudo tanto Back-End quanto Front-End e atualmente estou focado em aprender cada vez mais.
+### 🚀 Sobre mim
+- 🎓 **Formação:** Estudante de programação, realizando o curso profissionalizante na **EBAC** de Desenvolvedor Full Stack.
+- 🏫 **Ensino Superior:** Cursando **Análise e Desenvolvimento de Sistemas (ADS)** na Universidade Anhembi Morumbi.
+- 💻 **Foco:** Estudando ativamente arquiteturas Back-End e interfaces dinâmicas no Front-End para criar aplicações robustas.
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-| Categoria | Tecnologias Dominadas |
-| :--- | :--- |
-| **Front-End & Web** | ![HTML5](https://shields.io) ![CSS3](https://shields.io) ![JavaScript](https://shields.io) |
-| **Back-End** | ![Python](https://shields.io) |
-| **Infra & DevOps** | ![Docker](https://shields.io) |
-| **Controle de Versão** | ![Git](https://shields.io) ![GitHub](https://shields.io) |
+* 🌐 **Front-End & Web:** `HTML5` | `CSS3` | `JavaScript (ES6+)`
+* ⚙️ **Back-End:** `Python`
+* 🐋 **Infraestrutura & DevOps:** `Docker`
+* 🔧 **Controle de Versão:** `Git` | `GitHub`
 
 ---
 
@@ -26,4 +24,11 @@
 - 🐍 **[API-de-tarefas](https://github.com)**
   Back-end estruturado em Python focado na criação de rotas estáveis e manipulação ágil de dados de tarefas.
 
+- 📚 **[Gerenciador-de-Livros](https://github.com)**
+  Aplicação desenvolvida para controle e organização de acervos literários utilizando conceitos modernos de TypeScript.
+
 ---
+
+### ✉️ Vamos nos conectar?
+- 💼 **LinkedIn:** [guilherme-ldev](https://linkedin.com)
+- 📧 **E-mail:** guilopes666@gmail.com
