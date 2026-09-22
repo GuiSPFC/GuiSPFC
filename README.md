@@ -23,11 +23,8 @@
 
 ---
 
-### 📂 Meus Projetos em Destaque
+### 📂 Principais Projetos
 
-<div align="center">
-  <a href="https://github.com">
-    <img src="https://vercel.app" alt="Todo React Avancado" />
-  </a>
-</div>
+* 📝 **[todo-react-avancado.github.io](https://github.com)** - Lista de tarefas avançada desenvolvida em React.js, focada em componentização e gerenciamento de estado.
 
+---
